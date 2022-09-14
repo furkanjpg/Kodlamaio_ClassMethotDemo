@@ -1,0 +1,11 @@
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\bin\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.deps.json
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\bin\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.runtimeconfig.json
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\bin\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.runtimeconfig.dev.json
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\bin\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.dll
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\bin\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.pdb
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\obj\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.csprojAssemblyReference.cache
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\obj\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.csproj.CoreCompileInputs.cache
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\obj\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.AssemblyInfoInputs.cache
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\obj\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.AssemblyInfo.cs
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\obj\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.dll
+C:\Users\Arthur_x\source\repos\Kodlamaio_ClassMethotDemo\Kodlamaio_ClassMethotDemo\obj\Debug\netcoreapp2.1\Kodlamaio_ClassMethotDemo.pdb
